@@ -1,4 +1,4 @@
-# boolean-uk-react-global-state
+Global State
 
 Description
 Transform regular state to global state using Zustand.
